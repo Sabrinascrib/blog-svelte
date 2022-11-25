@@ -1,6 +1,6 @@
 <script>
 	import Navbar from '../components/Navbar.svelte';
-	import Hero from '../components/H+ero.svelte';
+	import Hero from '../components/Hero.svelte';
 </script>
 
 <Navbar />
